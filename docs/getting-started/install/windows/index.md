@@ -5,7 +5,7 @@ redirect_from:
   - /Mono%3AWindows/
 ---
 
-Mono runs on Windows, this page describes the various features available for users who want to use Mono on Windows as well as using Mono-based technologies on Windows without Mono (like Gtk#).
+Mono runs on Windows; this page describes the various features available for users who want to use Mono on Windows as well as using Mono-based technologies on Windows without Mono (like Gtk#).
 
 1.  Download the latest Windows installer from the [download](/download/stable/) page.
 2.  Run the installer and accept the terms of the license. Mono is now installing:
@@ -17,7 +17,7 @@ This shortcut starts a command shell with Mono-relevant path information already
 
 [![windows-install-mono-cmd.png](/images/windows-install-mono-cmd.png)](/images/windows-install-mono-cmd.png)
 
-At this point, it’s a good idea to run through the basic hello world examples on [this page](/docs/getting-started/mono-basics/) to verify Mono is working correctly.
+At this point, it’s a good idea to run through the basic "hello world" examples on [this page](/docs/getting-started/mono-basics/) to verify Mono is working correctly.
 
 Gtk#
 -----
