@@ -6,7 +6,7 @@ redirect_from:
   - /Docs/
 ---
 
-These docs cover Mono-specific topics, such as setting up and configuring Mono, Mono internals such as the runtime and garbage collector, and various Mono-specific tools.
+These docs cover Mono-specific topics such as setting up and configuring Mono, Mono internals like the runtime and garbage collector, and various Mono-specific tools.
 
 For general information about the .NET framework and the class libraries, you can refer to Microsoft's [MSDN pages](http://msdn.microsoft.com/en-us/library/ff361664.aspx).
 
