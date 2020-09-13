@@ -2,7 +2,7 @@
 title: Install Mono on macOS
 ---
 
-Mono runs on Mac, this page describes the various features available for users who want to use Mono or Mono-based technologies on macOS.
+Mono runs on Mac; this page describes the various features available for users who want to use Mono or Mono-based technologies on macOS.
 
 Installing Mono on macOS is very simple:
 
@@ -11,4 +11,4 @@ Installing Mono on macOS is very simple:
 
     [![mono-mac-install.png](/images/mono-mac-install.png)](/images/mono-mac-install.png)
 
-After the installation completed successfully, it's a good idea to run through the basic hello world examples on [this page](/docs/getting-started/mono-basics/) to verify Mono is working correctly.
+After the installation completes successfully, it's a good idea to run through the basic "hello world" examples on [this page](/docs/getting-started/mono-basics/) to verify Mono is working correctly.
