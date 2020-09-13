@@ -458,7 +458,7 @@ Fixed in
 
 Notes
 
--   Yes the affected/fixed products are confusing. The bug was in XSP but only exposed when using mod_mono. You should update both packages to avoid compatibility issues.
+-   Yes, the affected/fixed products are confusing. The bug was in XSP but only exposed when using mod_mono. You should update both packages to avoid compatibility issues.
 
 Mono ASP.NET Unicode Conversion Cross-Site Scripting
 ----------------------------------------------------
