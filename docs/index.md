@@ -6,9 +6,9 @@ redirect_from:
   - /Docs/
 ---
 
-These docs cover Mono specific topics, like setting up and configuring Mono or information about Mono internals such as the runtime, garbage collector or various Mono-specific tools.
+These docs cover Mono-specific topics, such as setting up and configuring Mono, Mono internals such as the runtime and garbage collector, and various Mono-specific tools.
 
-For general information about the .NET framework and the class libraries you can refer to Microsoft's [MSDN pages](http://msdn.microsoft.com/en-us/library/ff361664.aspx).
+For general information about the .NET framework and the class libraries, you can refer to Microsoft's [MSDN pages](http://msdn.microsoft.com/en-us/library/ff361664.aspx).
 
 {% capture docNote %}
 Our website is open source on [GitHub](https://github.com/mono/website). If you find errors or think a page could be improved, just click the "Edit page on GitHub" link beneath the page title. See [contributing to the website](https://github.com/mono/website#contributing-to-the-website) for more details.
